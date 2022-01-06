@@ -34,6 +34,7 @@ while (true)
         Console.WriteLine("===");
         Console.WriteLine("Ciąg Fabicicnaego");
         int firstNumber = 0;
+        Console.WriteLine("===");
         int secondNumber = 1;
         for (int j = 2; j < user; j++)
         {
